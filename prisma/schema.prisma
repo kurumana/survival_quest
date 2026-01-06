@@ -7,7 +7,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = env("https://wnovqlialckdefhjgvyh.supabase.co")
+  url      = env("Mau.jpo2410#@wnovqlialckdefhjgvyh.supabase.co")
 }
 
 // Representa uma partida/jogo do jogador
